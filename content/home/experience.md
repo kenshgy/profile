@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: IT Consultant
     company: ulsystems
-    company_url: 'https://www.ulsystems.co.jp/'
+    company_url: #'https://www.ulsystems.co.jp/'
     # company_logo: org-gc
     location: Tokyo
     date_start: '2021-02-01'

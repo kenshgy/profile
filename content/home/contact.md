@@ -1,4 +1,5 @@
 ---
+active: false
 # An instance of the Contact widget.
 widget: contact
 
@@ -25,15 +26,15 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: kensuke.shigyo@gmail.com
-  phone: +81-50-5603-8896
+  email: #kensuke.shigyo@gmail.com
+  phone: #+81-50-5603-8896
   address:
-    street: 1-8-10 Harumi 
-    city: Chuoku
-    region: Tokyo
-    postcode: '104-6014'
-    country: Japan
-    country_code: US
+    street: #1-8-10 Harumi 
+    city: #Chuoku
+    region: Tokyo, Japan
+    postcode: #'104-6014'
+    country: #Japan
+    country_code: #JA
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
