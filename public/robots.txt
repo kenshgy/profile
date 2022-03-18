@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://kenshgy.github.io/sitemap.xml
