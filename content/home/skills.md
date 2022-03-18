@@ -1,4 +1,5 @@
 ---
+active: true
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
@@ -10,24 +11,24 @@ headless: true
 weight: 30
 
 title: Skills
-subtitle:
+subtitle: 
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
+- description: 
+  name: Kubernetes
+- description: 
+  name: OpenShift
+- description: 
+  name: Cloud（IBM Cloud）
+- description: 
   name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description:
+  name: Java, Python
+- description:
+  name: Linux, Windows, Mac
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
