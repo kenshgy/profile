@@ -1,16 +1,16 @@
-= プロフィールページ
+# プロフィールページ
 
-== 更新手順
+## 更新手順
 
-=== ビルド
+### ビルド
 
 hugo
 
 mv ./public ./docs
 
-=== commit & push
+### commit & push
 
-== 備忘
+## 備忘
 
 以下のレポジトリをもとに作成
 https://github.com/wowchemy/wowchemy-hugo-themes
