@@ -4,9 +4,9 @@
 
 ### ビルド
 
-hugo
+> hugo
 
-mv ./public ./docs
+> mv ./public ./docs
 
 ### commit & push
 
